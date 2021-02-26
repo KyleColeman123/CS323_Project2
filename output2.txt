@@ -1,0 +1,666 @@
+Processing + Isakhar Malla...
+Target Index: 12
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Isakhar Malla
+Isakhar Malla has been INSERTED on HashTable[12]: (dummyfirst dummylast , Isakhar)-->(Isakhar Malla NULL)-->NULL
+
+Processing + Hermun Kim...
+Target Index: 33
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Hermun Kim
+Hermun Kim has been INSERTED on HashTable[33]: (dummyfirst dummylast , Hermun)-->(Hermun Kim NULL)-->NULL
+
+Processing + Carlos Ochilov...
+Target Index: 0
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Carlos Ochilov
+Carlos Ochilov has been INSERTED on HashTable[0]: (dummyfirst dummylast , Carlos)-->(Carlos Ochilov NULL)-->NULL
+
+Processing ? Isakhar Malla...
+Target Index: 12
+(dummyfirst dummylast , Isakhar)-->(Isakhar Malla NULL)-->NULL
+***Performing hashRetrieval on Isakhar Malla
+Yes, the record Isakhar Malla is in the database!
+
+Processing + Michael Zheng...
+Target Index: 38
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Michael Zheng
+Michael Zheng has been INSERTED on HashTable[38]: (dummyfirst dummylast , Michael)-->(Michael Zheng NULL)-->NULL
+
+Processing + Jasmine Malla...
+Target Index: 12
+(dummyfirst dummylast , Isakhar)-->(Isakhar Malla NULL)-->NULL
+***Performing hashInsert on Jasmine Malla
+Jasmine Malla has been INSERTED on HashTable[12]: (dummyfirst dummylast , Isakhar)-->(Isakhar Malla , Jasmine)-->(Jasmine Malla NULL)-->NULL
+
+Processing + Elyon Aminov...
+Target Index: 39
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Elyon Aminov
+Elyon Aminov has been INSERTED on HashTable[39]: (dummyfirst dummylast , Elyon)-->(Elyon Aminov NULL)-->NULL
+
+Processing + Hermun Kim...
+Target Index: 33
+(dummyfirst dummylast , Hermun)-->(Hermun Kim NULL)-->NULL
+***Performing hashInsert on Hermun Kim
+*** Warning, the record Hermun Kim is in the database!
+
+Processing + Jasmin Atwal...
+Target Index: 14
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Jasmin Atwal
+Jasmin Atwal has been INSERTED on HashTable[14]: (dummyfirst dummylast , Jasmin)-->(Jasmin Atwal NULL)-->NULL
+
+Processing ? Sweyaksha Webster...
+Target Index: 33
+(dummyfirst dummylast , Hermun)-->(Hermun Kim NULL)-->NULL
+***Performing hashRetrieval on Sweyaksha Webster
+No, the record Sweyaksha Webster is NOT in the database!
+
+Processing + Mohammed Aucacama...
+Target Index: 8
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Mohammed Aucacama
+Mohammed Aucacama has been INSERTED on HashTable[8]: (dummyfirst dummylast , Mohammed)-->(Mohammed Aucacama NULL)-->NULL
+
+Processing + Longcheng Ochilov...
+Target Index: 0
+(dummyfirst dummylast , Carlos)-->(Carlos Ochilov NULL)-->NULL
+***Performing hashInsert on Longcheng Ochilov
+Longcheng Ochilov has been INSERTED on HashTable[0]: (dummyfirst dummylast , Carlos)-->(Carlos Ochilov , Longcheng)-->(Longcheng Ochilov NULL)-->NULL
+
+Processing + Sweyaksha Webster...
+Target Index: 33
+(dummyfirst dummylast , Hermun)-->(Hermun Kim NULL)-->NULL
+***Performing hashInsert on Sweyaksha Webster
+Sweyaksha Webster has been INSERTED on HashTable[33]: (dummyfirst dummylast , Hermun)-->(Hermun Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+
+Processing + Kyle Boodoosingh...
+Target Index: 11
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Kyle Boodoosingh
+Kyle Boodoosingh has been INSERTED on HashTable[11]: (dummyfirst dummylast , Kyle)-->(Kyle Boodoosingh NULL)-->NULL
+
+Processing - Longcheng Ochilov...
+Target Index: 0
+(dummyfirst dummylast , Carlos)-->(Carlos Ochilov , Longcheng)-->(Longcheng Ochilov NULL)-->NULL
+***Performing hashDelete on Longcheng Ochilov
+Longcheng Ochilov has been DELETED on HashTable[0]: (dummyfirst dummylast , Carlos)-->(Carlos Ochilov NULL)-->NULL
+
+Processing + Pengdwende Cesa...
+Target Index: 28
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Pengdwende Cesa
+Pengdwende Cesa has been INSERTED on HashTable[28]: (dummyfirst dummylast , Pengdwende)-->(Pengdwende Cesa NULL)-->NULL
+
+Processing ? David Chowdhury...
+Target Index: 8
+(dummyfirst dummylast , Mohammed)-->(Mohammed Aucacama NULL)-->NULL
+***Performing hashRetrieval on David Chowdhury
+No, the record David Chowdhury is NOT in the database!
+
+Processing + Kushal Zheng...
+Target Index: 38
+(dummyfirst dummylast , Michael)-->(Michael Zheng NULL)-->NULL
+***Performing hashInsert on Kushal Zheng
+Kushal Zheng has been INSERTED on HashTable[38]: (dummyfirst dummylast , Kushal)-->(Kushal Zheng , Michael)-->(Michael Zheng NULL)-->NULL
+
+Processing + Mohammed Aucacama...
+Target Index: 8
+(dummyfirst dummylast , Mohammed)-->(Mohammed Aucacama NULL)-->NULL
+***Performing hashInsert on Mohammed Aucacama
+*** Warning, the record Mohammed Aucacama is in the database!
+
+Processing - Sweyaksha Kim...
+Target Index: 33
+(dummyfirst dummylast , Hermun)-->(Hermun Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+***Performing hashDelete on Sweyaksha Kim
+*** Warning, the record Sweyaksha Kim is NOT in the database!
+
+Processing + David Chowdhury...
+Target Index: 8
+(dummyfirst dummylast , Mohammed)-->(Mohammed Aucacama NULL)-->NULL
+***Performing hashInsert on David Chowdhury
+David Chowdhury has been INSERTED on HashTable[8]: (dummyfirst dummylast , Mohammed)-->(Mohammed Aucacama , David)-->(David Chowdhury NULL)-->NULL
+
+Processing + Chewantha Chowdhury...
+Target Index: 8
+(dummyfirst dummylast , Mohammed)-->(Mohammed Aucacama , David)-->(David Chowdhury NULL)-->NULL
+***Performing hashInsert on Chewantha Chowdhury
+Chewantha Chowdhury has been INSERTED on HashTable[8]: (dummyfirst dummylast , Mohammed)-->(Mohammed Aucacama , Chewantha)-->(Chewantha Chowdhury , David)-->(David Chowdhury NULL)-->NULL
+
+Processing ? Kushal Zheng...
+Target Index: 38
+(dummyfirst dummylast , Kushal)-->(Kushal Zheng , Michael)-->(Michael Zheng NULL)-->NULL
+***Performing hashRetrieval on Kushal Zheng
+Yes, the record Kushal Zheng is in the database!
+
+Processing + David Chowdhury...
+Target Index: 8
+(dummyfirst dummylast , Mohammed)-->(Mohammed Aucacama , Chewantha)-->(Chewantha Chowdhury , David)-->(David Chowdhury NULL)-->NULL
+***Performing hashInsert on David Chowdhury
+*** Warning, the record David Chowdhury is in the database!
+
+Processing - Jasmine Malla...
+Target Index: 12
+(dummyfirst dummylast , Isakhar)-->(Isakhar Malla , Jasmine)-->(Jasmine Malla NULL)-->NULL
+***Performing hashDelete on Jasmine Malla
+Jasmine Malla has been DELETED on HashTable[12]: (dummyfirst dummylast , Isakhar)-->(Isakhar Malla NULL)-->NULL
+
+Processing + Dylan Coleman...
+Target Index: 22
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Dylan Coleman
+Dylan Coleman has been INSERTED on HashTable[22]: (dummyfirst dummylast , Dylan)-->(Dylan Coleman NULL)-->NULL
+
+Processing + Upesh Guira...
+Target Index: 13
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Upesh Guira
+Upesh Guira has been INSERTED on HashTable[13]: (dummyfirst dummylast , Upesh)-->(Upesh Guira NULL)-->NULL
+
+Processing - Kushal Zheng...
+Target Index: 38
+(dummyfirst dummylast , Kushal)-->(Kushal Zheng , Michael)-->(Michael Zheng NULL)-->NULL
+***Performing hashDelete on Kushal Zheng
+Kushal Zheng has been DELETED on HashTable[38]: (dummyfirst dummylast , Michael)-->(Michael Zheng NULL)-->NULL
+
+Processing + Tasif Jang...
+Target Index: 6
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Tasif Jang
+Tasif Jang has been INSERTED on HashTable[6]: (dummyfirst dummylast , Tasif)-->(Tasif Jang NULL)-->NULL
+
+Processing + Miroo Jayasundera...
+Target Index: 2
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Miroo Jayasundera
+Miroo Jayasundera has been INSERTED on HashTable[2]: (dummyfirst dummylast , Miroo)-->(Miroo Jayasundera NULL)-->NULL
+
+Processing - Jasmine Malla...
+Target Index: 12
+(dummyfirst dummylast , Isakhar)-->(Isakhar Malla NULL)-->NULL
+***Performing hashDelete on Jasmine Malla
+*** Warning, the record Jasmine Malla is NOT in the database!
+
+Processing + Wen Johnson...
+Target Index: 8
+(dummyfirst dummylast , Mohammed)-->(Mohammed Aucacama , Chewantha)-->(Chewantha Chowdhury , David)-->(David Chowdhury NULL)-->NULL
+***Performing hashInsert on Wen Johnson
+Wen Johnson has been INSERTED on HashTable[8]: (dummyfirst dummylast , Mohammed)-->(Mohammed Aucacama , Chewantha)-->(Chewantha Chowdhury , David)-->(David Chowdhury , Wen)-->(Wen Johnson NULL)-->NULL
+
+Processing + Marvin Karki...
+Target Index: 27
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Marvin Karki
+Marvin Karki has been INSERTED on HashTable[27]: (dummyfirst dummylast , Marvin)-->(Marvin Karki NULL)-->NULL
+
+Processing - Sweyaksha Kim...
+Target Index: 33
+(dummyfirst dummylast , Hermun)-->(Hermun Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+***Performing hashDelete on Sweyaksha Kim
+*** Warning, the record Sweyaksha Kim is NOT in the database!
+
+Processing + Junjie Kazi...
+Target Index: 7
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Junjie Kazi
+Junjie Kazi has been INSERTED on HashTable[7]: (dummyfirst dummylast , Junjie)-->(Junjie Kazi NULL)-->NULL
+
+Processing + Richard Kim...
+Target Index: 33
+(dummyfirst dummylast , Hermun)-->(Hermun Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+***Performing hashInsert on Richard Kim
+Richard Kim has been INSERTED on HashTable[33]: (dummyfirst dummylast , Hermun)-->(Hermun Kim , Richard)-->(Richard Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+
+Processing - Davron Cai...
+Target Index: 9
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashDelete on Davron Cai
+*** Warning, the record Davron Cai is NOT in the database!
+
+Processing + Brian Lee...
+Target Index: 18
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Brian Lee
+Brian Lee has been INSERTED on HashTable[18]: (dummyfirst dummylast , Brian)-->(Brian Lee NULL)-->NULL
+
+Processing + Samriddha Kim...
+Target Index: 33
+(dummyfirst dummylast , Hermun)-->(Hermun Kim , Richard)-->(Richard Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+***Performing hashInsert on Samriddha Kim
+Samriddha Kim has been INSERTED on HashTable[33]: (dummyfirst dummylast , Hermun)-->(Hermun Kim , Richard)-->(Richard Kim , Samriddha)-->(Samriddha Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+
+Processing + Fidiana Lei...
+Target Index: 22
+(dummyfirst dummylast , Dylan)-->(Dylan Coleman NULL)-->NULL
+***Performing hashInsert on Fidiana Lei
+Fidiana Lei has been INSERTED on HashTable[22]: (dummyfirst dummylast , Dylan)-->(Dylan Coleman , Fidiana)-->(Fidiana Lei NULL)-->NULL
+
+Processing + Josephine Li...
+Target Index: 35
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Josephine Li
+Josephine Li has been INSERTED on HashTable[35]: (dummyfirst dummylast , Josephine)-->(Josephine Li NULL)-->NULL
+
+Processing - Zilong Kharel...
+Target Index: 41
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashDelete on Zilong Kharel
+*** Warning, the record Zilong Kharel is NOT in the database!
+
+Processing + Donghee Shrestha...
+Target Index: 14
+(dummyfirst dummylast , Jasmin)-->(Jasmin Atwal NULL)-->NULL
+***Performing hashInsert on Donghee Shrestha
+Donghee Shrestha has been INSERTED on HashTable[14]: (dummyfirst dummylast , Jasmin)-->(Jasmin Atwal , Donghee)-->(Donghee Shrestha NULL)-->NULL
+
+Processing + Andy Lin...
+Target Index: 26
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Andy Lin
+Andy Lin has been INSERTED on HashTable[26]: (dummyfirst dummylast , Andy)-->(Andy Lin NULL)-->NULL
+
+Processing + Avenash Luu...
+Target Index: 30
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Avenash Luu
+Avenash Luu has been INSERTED on HashTable[30]: (dummyfirst dummylast , Avenash)-->(Avenash Luu NULL)-->NULL
+
+Processing ? Brian Lee...
+Target Index: 18
+(dummyfirst dummylast , Brian)-->(Brian Lee NULL)-->NULL
+***Performing hashRetrieval on Brian Lee
+Yes, the record Brian Lee is in the database!
+
+Processing + Davron Cai...
+Target Index: 9
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Davron Cai
+Davron Cai has been INSERTED on HashTable[9]: (dummyfirst dummylast , Davron)-->(Davron Cai NULL)-->NULL
+
+Processing + Chelsea Mujaj...
+Target Index: 26
+(dummyfirst dummylast , Andy)-->(Andy Lin NULL)-->NULL
+***Performing hashInsert on Chelsea Mujaj
+Chelsea Mujaj has been INSERTED on HashTable[26]: (dummyfirst dummylast , Andy)-->(Andy Lin , Chelsea)-->(Chelsea Mujaj NULL)-->NULL
+
+Processing + Gursharn Pho...
+Target Index: 6
+(dummyfirst dummylast , Tasif)-->(Tasif Jang NULL)-->NULL
+***Performing hashInsert on Gursharn Pho
+Gursharn Pho has been INSERTED on HashTable[6]: (dummyfirst dummylast , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho NULL)-->NULL
+
+Processing - Samriddha Kim...
+Target Index: 33
+(dummyfirst dummylast , Hermun)-->(Hermun Kim , Richard)-->(Richard Kim , Samriddha)-->(Samriddha Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+***Performing hashDelete on Samriddha Kim
+Samriddha Kim has been DELETED on HashTable[33]: (dummyfirst dummylast , Hermun)-->(Hermun Kim , Richard)-->(Richard Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+
+Processing - Donghee Shrestha...
+Target Index: 14
+(dummyfirst dummylast , Jasmin)-->(Jasmin Atwal , Donghee)-->(Donghee Shrestha NULL)-->NULL
+***Performing hashDelete on Donghee Shrestha
+Donghee Shrestha has been DELETED on HashTable[14]: (dummyfirst dummylast , Jasmin)-->(Jasmin Atwal NULL)-->NULL
+
+Processing + Mahima Qu...
+Target Index: 35
+(dummyfirst dummylast , Josephine)-->(Josephine Li NULL)-->NULL
+***Performing hashInsert on Mahima Qu
+Mahima Qu has been INSERTED on HashTable[35]: (dummyfirst dummylast , Josephine)-->(Josephine Li , Mahima)-->(Mahima Qu NULL)-->NULL
+
+Processing + Zilong Kharel...
+Target Index: 41
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Zilong Kharel
+Zilong Kharel has been INSERTED on HashTable[41]: (dummyfirst dummylast , Zilong)-->(Zilong Kharel NULL)-->NULL
+
+Processing + Pravesh Ramnarine...
+Target Index: 6
+(dummyfirst dummylast , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho NULL)-->NULL
+***Performing hashInsert on Pravesh Ramnarine
+Pravesh Ramnarine has been INSERTED on HashTable[6]: (dummyfirst dummylast , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine NULL)-->NULL
+
+Processing + Tenzin Rodriguez...
+Target Index: 38
+(dummyfirst dummylast , Michael)-->(Michael Zheng NULL)-->NULL
+***Performing hashInsert on Tenzin Rodriguez
+Tenzin Rodriguez has been INSERTED on HashTable[38]: (dummyfirst dummylast , Tenzin)-->(Tenzin Rodriguez , Michael)-->(Michael Zheng NULL)-->NULL
+
+Processing + George Singh...
+Target Index: 28
+(dummyfirst dummylast , Pengdwende)-->(Pengdwende Cesa NULL)-->NULL
+***Performing hashInsert on George Singh
+George Singh has been INSERTED on HashTable[28]: (dummyfirst dummylast , Pengdwende)-->(Pengdwende Cesa , George)-->(George Singh NULL)-->NULL
+
+Processing + Bingming Thakur...
+Target Index: 41
+(dummyfirst dummylast , Zilong)-->(Zilong Kharel NULL)-->NULL
+***Performing hashInsert on Bingming Thakur
+Bingming Thakur has been INSERTED on HashTable[41]: (dummyfirst dummylast , Zilong)-->(Zilong Kharel , Bingming)-->(Bingming Thakur NULL)-->NULL
+
+Processing + Linbo Tilija...
+Target Index: 32
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Linbo Tilija
+Linbo Tilija has been INSERTED on HashTable[32]: (dummyfirst dummylast , Linbo)-->(Linbo Tilija NULL)-->NULL
+
+Processing ? Davron Cai...
+Target Index: 9
+(dummyfirst dummylast , Davron)-->(Davron Cai NULL)-->NULL
+***Performing hashRetrieval on Davron Cai
+Yes, the record Davron Cai is in the database!
+
+Processing + Seratul Diaz...
+Target Index: 6
+(dummyfirst dummylast , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine NULL)-->NULL
+***Performing hashInsert on Seratul Diaz
+Seratul Diaz has been INSERTED on HashTable[6]: (dummyfirst dummylast , Seratul)-->(Seratul Diaz , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine NULL)-->NULL
+
+Processing + Roberto Ehsan...
+Target Index: 22
+(dummyfirst dummylast , Dylan)-->(Dylan Coleman , Fidiana)-->(Fidiana Lei NULL)-->NULL
+***Performing hashInsert on Roberto Ehsan
+Roberto Ehsan has been INSERTED on HashTable[22]: (dummyfirst dummylast , Dylan)-->(Dylan Coleman , Roberto)-->(Roberto Ehsan , Fidiana)-->(Fidiana Lei NULL)-->NULL
+
+Processing + Derek Khanal...
+Target Index: 31
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Derek Khanal
+Derek Khanal has been INSERTED on HashTable[31]: (dummyfirst dummylast , Derek)-->(Derek Khanal NULL)-->NULL
+
+Processing + Bijaya Sajjad...
+Target Index: 13
+(dummyfirst dummylast , Upesh)-->(Upesh Guira NULL)-->NULL
+***Performing hashInsert on Bijaya Sajjad
+Bijaya Sajjad has been INSERTED on HashTable[13]: (dummyfirst dummylast , Upesh)-->(Upesh Guira , Bijaya)-->(Bijaya Sajjad NULL)-->NULL
+
+Processing ? Roberto Ehsan...
+Target Index: 22
+(dummyfirst dummylast , Dylan)-->(Dylan Coleman , Roberto)-->(Roberto Ehsan , Fidiana)-->(Fidiana Lei NULL)-->NULL
+***Performing hashRetrieval on Roberto Ehsan
+Yes, the record Roberto Ehsan is in the database!
+
+Processing + Jonathan Zhang...
+Target Index: 27
+(dummyfirst dummylast , Marvin)-->(Marvin Karki NULL)-->NULL
+***Performing hashInsert on Jonathan Zhang
+Jonathan Zhang has been INSERTED on HashTable[27]: (dummyfirst dummylast , Marvin)-->(Marvin Karki , Jonathan)-->(Jonathan Zhang NULL)-->NULL
+
+Processing + Ben Gajda...
+Target Index: 33
+(dummyfirst dummylast , Hermun)-->(Hermun Kim , Richard)-->(Richard Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+***Performing hashInsert on Ben Gajda
+Ben Gajda has been INSERTED on HashTable[33]: (dummyfirst dummylast , Ben)-->(Ben Gajda , Hermun)-->(Hermun Kim , Richard)-->(Richard Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+
+Processing + James Yu...
+Target Index: 33
+(dummyfirst dummylast , Ben)-->(Ben Gajda , Hermun)-->(Hermun Kim , Richard)-->(Richard Kim , Sweyaksha)-->(Sweyaksha Webster NULL)-->NULL
+***Performing hashInsert on James Yu
+James Yu has been INSERTED on HashTable[33]: (dummyfirst dummylast , Ben)-->(Ben Gajda , Hermun)-->(Hermun Kim , Richard)-->(Richard Kim , Sweyaksha)-->(Sweyaksha Webster , James)-->(James Yu NULL)-->NULL
+
+Processing + Megan Shrestha...
+Target Index: 14
+(dummyfirst dummylast , Jasmin)-->(Jasmin Atwal NULL)-->NULL
+***Performing hashInsert on Megan Shrestha
+Megan Shrestha has been INSERTED on HashTable[14]: (dummyfirst dummylast , Jasmin)-->(Jasmin Atwal , Megan)-->(Megan Shrestha NULL)-->NULL
+
+Processing - Alex Devereux...
+Target Index: 22
+(dummyfirst dummylast , Dylan)-->(Dylan Coleman , Roberto)-->(Roberto Ehsan , Fidiana)-->(Fidiana Lei NULL)-->NULL
+***Performing hashDelete on Alex Devereux
+*** Warning, the record Alex Devereux is NOT in the database!
+
+Processing + Damian Ambia...
+Target Index: 26
+(dummyfirst dummylast , Andy)-->(Andy Lin , Chelsea)-->(Chelsea Mujaj NULL)-->NULL
+***Performing hashInsert on Damian Ambia
+Damian Ambia has been INSERTED on HashTable[26]: (dummyfirst dummylast , Damian)-->(Damian Ambia , Andy)-->(Andy Lin , Chelsea)-->(Chelsea Mujaj NULL)-->NULL
+
+Processing + Larry Andrade...
+Target Index: 28
+(dummyfirst dummylast , Pengdwende)-->(Pengdwende Cesa , George)-->(George Singh NULL)-->NULL
+***Performing hashInsert on Larry Andrade
+Larry Andrade has been INSERTED on HashTable[28]: (dummyfirst dummylast , Larry)-->(Larry Andrade , Pengdwende)-->(Pengdwende Cesa , George)-->(George Singh NULL)-->NULL
+
+Processing + Umair Azarpayvand...
+Target Index: 27
+(dummyfirst dummylast , Marvin)-->(Marvin Karki , Jonathan)-->(Jonathan Zhang NULL)-->NULL
+***Performing hashInsert on Umair Azarpayvand
+Umair Azarpayvand has been INSERTED on HashTable[27]: (dummyfirst dummylast , Umair)-->(Umair Azarpayvand , Marvin)-->(Marvin Karki , Jonathan)-->(Jonathan Zhang NULL)-->NULL
+
+Processing ? Alex Devereux...
+Target Index: 22
+(dummyfirst dummylast , Dylan)-->(Dylan Coleman , Roberto)-->(Roberto Ehsan , Fidiana)-->(Fidiana Lei NULL)-->NULL
+***Performing hashRetrieval on Alex Devereux
+No, the record Alex Devereux is NOT in the database!
+
+Processing + Rashad Bernard...
+Target Index: 6
+(dummyfirst dummylast , Seratul)-->(Seratul Diaz , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine NULL)-->NULL
+***Performing hashInsert on Rashad Bernard
+Rashad Bernard has been INSERTED on HashTable[6]: (dummyfirst dummylast , Rashad)-->(Rashad Bernard , Seratul)-->(Seratul Diaz , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine NULL)-->NULL
+
+Processing - Heteng Zhang...
+Target Index: 27
+(dummyfirst dummylast , Umair)-->(Umair Azarpayvand , Marvin)-->(Marvin Karki , Jonathan)-->(Jonathan Zhang NULL)-->NULL
+***Performing hashDelete on Heteng Zhang
+*** Warning, the record Heteng Zhang is NOT in the database!
+
+Processing + Robert Bista...
+Target Index: 40
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Robert Bista
+Robert Bista has been INSERTED on HashTable[40]: (dummyfirst dummylast , Robert)-->(Robert Bista NULL)-->NULL
+
+Processing + John Cohen...
+Target Index: 38
+(dummyfirst dummylast , Tenzin)-->(Tenzin Rodriguez , Michael)-->(Michael Zheng NULL)-->NULL
+***Performing hashInsert on John Cohen
+John Cohen has been INSERTED on HashTable[38]: (dummyfirst dummylast , John)-->(John Cohen , Tenzin)-->(Tenzin Rodriguez , Michael)-->(Michael Zheng NULL)-->NULL
+
+Processing + James Deciutiis...
+Target Index: 28
+(dummyfirst dummylast , Larry)-->(Larry Andrade , Pengdwende)-->(Pengdwende Cesa , George)-->(George Singh NULL)-->NULL
+***Performing hashInsert on James Deciutiis
+James Deciutiis has been INSERTED on HashTable[28]: (dummyfirst dummylast , Larry)-->(Larry Andrade , Pengdwende)-->(Pengdwende Cesa , James)-->(James Deciutiis , George)-->(George Singh NULL)-->NULL
+
+Processing + Thomas Diaz...
+Target Index: 6
+(dummyfirst dummylast , Rashad)-->(Rashad Bernard , Seratul)-->(Seratul Diaz , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine NULL)-->NULL
+***Performing hashInsert on Thomas Diaz
+Thomas Diaz has been INSERTED on HashTable[6]: (dummyfirst dummylast , Rashad)-->(Rashad Bernard , Seratul)-->(Seratul Diaz , Thomas)-->(Thomas Diaz , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine NULL)-->NULL
+
+Processing + Shudip Taha...
+Target Index: 0
+(dummyfirst dummylast , Carlos)-->(Carlos Ochilov NULL)-->NULL
+***Performing hashInsert on Shudip Taha
+Shudip Taha has been INSERTED on HashTable[0]: (dummyfirst dummylast , Carlos)-->(Carlos Ochilov , Shudip)-->(Shudip Taha NULL)-->NULL
+
+Processing + Jino Ellis...
+Target Index: 3
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Jino Ellis
+Jino Ellis has been INSERTED on HashTable[3]: (dummyfirst dummylast , Jino)-->(Jino Ellis NULL)-->NULL
+
+Processing + Dhawa Farooq...
+Target Index: 13
+(dummyfirst dummylast , Upesh)-->(Upesh Guira , Bijaya)-->(Bijaya Sajjad NULL)-->NULL
+***Performing hashInsert on Dhawa Farooq
+Dhawa Farooq has been INSERTED on HashTable[13]: (dummyfirst dummylast , Dhawa)-->(Dhawa Farooq , Upesh)-->(Upesh Guira , Bijaya)-->(Bijaya Sajjad NULL)-->NULL
+
+Processing - Robert Bista...
+Target Index: 40
+(dummyfirst dummylast , Robert)-->(Robert Bista NULL)-->NULL
+***Performing hashDelete on Robert Bista
+Robert Bista has been DELETED on HashTable[40]: (dummyfirst dummylast NULL)-->NULL
+
+Processing + Bertin Farooqi...
+Target Index: 19
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Bertin Farooqi
+Bertin Farooqi has been INSERTED on HashTable[19]: (dummyfirst dummylast , Bertin)-->(Bertin Farooqi NULL)-->NULL
+
+Processing + Vincenzo Gutierrez...
+Target Index: 15
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Vincenzo Gutierrez
+Vincenzo Gutierrez has been INSERTED on HashTable[15]: (dummyfirst dummylast , Vincenzo)-->(Vincenzo Gutierrez NULL)-->NULL
+
+Processing + Heteng Zhang...
+Target Index: 27
+(dummyfirst dummylast , Umair)-->(Umair Azarpayvand , Marvin)-->(Marvin Karki , Jonathan)-->(Jonathan Zhang NULL)-->NULL
+***Performing hashInsert on Heteng Zhang
+Heteng Zhang has been INSERTED on HashTable[27]: (dummyfirst dummylast , Umair)-->(Umair Azarpayvand , Marvin)-->(Marvin Karki , Heteng)-->(Heteng Zhang , Jonathan)-->(Jonathan Zhang NULL)-->NULL
+
+Processing ? Robert Bista...
+Target Index: 40
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashRetrieval on Robert Bista
+No, the record Robert Bista is NOT in the database!
+
+Processing + Alex Devereux...
+Target Index: 22
+(dummyfirst dummylast , Dylan)-->(Dylan Coleman , Roberto)-->(Roberto Ehsan , Fidiana)-->(Fidiana Lei NULL)-->NULL
+***Performing hashInsert on Alex Devereux
+Alex Devereux has been INSERTED on HashTable[22]: (dummyfirst dummylast , Dylan)-->(Dylan Coleman , Alex)-->(Alex Devereux , Roberto)-->(Roberto Ehsan , Fidiana)-->(Fidiana Lei NULL)-->NULL
+
+Processing + Michael Kim...
+Target Index: 33
+(dummyfirst dummylast , Ben)-->(Ben Gajda , Hermun)-->(Hermun Kim , Richard)-->(Richard Kim , Sweyaksha)-->(Sweyaksha Webster , James)-->(James Yu NULL)-->NULL
+***Performing hashInsert on Michael Kim
+Michael Kim has been INSERTED on HashTable[33]: (dummyfirst dummylast , Ben)-->(Ben Gajda , Hermun)-->(Hermun Kim , Michael)-->(Michael Kim , Richard)-->(Richard Kim , Sweyaksha)-->(Sweyaksha Webster , James)-->(James Yu NULL)-->NULL
+
+Processing + Ryan Kousountidis...
+Target Index: 23
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Ryan Kousountidis
+Ryan Kousountidis has been INSERTED on HashTable[23]: (dummyfirst dummylast , Ryan)-->(Ryan Kousountidis NULL)-->NULL
+
+Processing - Shudip Taha...
+Target Index: 0
+(dummyfirst dummylast , Carlos)-->(Carlos Ochilov , Shudip)-->(Shudip Taha NULL)-->NULL
+***Performing hashDelete on Shudip Taha
+Shudip Taha has been DELETED on HashTable[0]: (dummyfirst dummylast , Carlos)-->(Carlos Ochilov NULL)-->NULL
+
+Processing + Matin Kwon...
+Target Index: 0
+(dummyfirst dummylast , Carlos)-->(Carlos Ochilov NULL)-->NULL
+***Performing hashInsert on Matin Kwon
+Matin Kwon has been INSERTED on HashTable[0]: (dummyfirst dummylast , Matin)-->(Matin Kwon , Carlos)-->(Carlos Ochilov NULL)-->NULL
+
+Processing + Kenley Lama...
+Target Index: 15
+(dummyfirst dummylast , Vincenzo)-->(Vincenzo Gutierrez NULL)-->NULL
+***Performing hashInsert on Kenley Lama
+Kenley Lama has been INSERTED on HashTable[15]: (dummyfirst dummylast , Vincenzo)-->(Vincenzo Gutierrez , Kenley)-->(Kenley Lama NULL)-->NULL
+
+Processing + JohnJ Legendre...
+Target Index: 18
+(dummyfirst dummylast , Brian)-->(Brian Lee NULL)-->NULL
+***Performing hashInsert on JohnJ Legendre
+JohnJ Legendre has been INSERTED on HashTable[18]: (dummyfirst dummylast , Brian)-->(Brian Lee , JohnJ)-->(JohnJ Legendre NULL)-->NULL
+
+Processing + Afm Syedan...
+Target Index: 6
+(dummyfirst dummylast , Rashad)-->(Rashad Bernard , Seratul)-->(Seratul Diaz , Thomas)-->(Thomas Diaz , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine NULL)-->NULL
+***Performing hashInsert on Afm Syedan
+Afm Syedan has been INSERTED on HashTable[6]: (dummyfirst dummylast , Rashad)-->(Rashad Bernard , Seratul)-->(Seratul Diaz , Thomas)-->(Thomas Diaz , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine , Afm)-->(Afm Syedan NULL)-->NULL
+
+Processing + Bakhtiyorjon Manno...
+Target Index: 31
+(dummyfirst dummylast , Derek)-->(Derek Khanal NULL)-->NULL
+***Performing hashInsert on Bakhtiyorjon Manno
+Bakhtiyorjon Manno has been INSERTED on HashTable[31]: (dummyfirst dummylast , Derek)-->(Derek Khanal , Bakhtiyorjon)-->(Bakhtiyorjon Manno NULL)-->NULL
+
+Processing - Megan Shrestha...
+Target Index: 14
+(dummyfirst dummylast , Jasmin)-->(Jasmin Atwal , Megan)-->(Megan Shrestha NULL)-->NULL
+***Performing hashDelete on Megan Shrestha
+Megan Shrestha has been DELETED on HashTable[14]: (dummyfirst dummylast , Jasmin)-->(Jasmin Atwal NULL)-->NULL
+
+Processing + Franklin Meneses...
+Target Index: 0
+(dummyfirst dummylast , Matin)-->(Matin Kwon , Carlos)-->(Carlos Ochilov NULL)-->NULL
+***Performing hashInsert on Franklin Meneses
+Franklin Meneses has been INSERTED on HashTable[0]: (dummyfirst dummylast , Matin)-->(Matin Kwon , Franklin)-->(Franklin Meneses , Carlos)-->(Carlos Ochilov NULL)-->NULL
+
+Processing + Muhammad Mohamed...
+Target Index: 40
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Muhammad Mohamed
+Muhammad Mohamed has been INSERTED on HashTable[40]: (dummyfirst dummylast , Muhammad)-->(Muhammad Mohamed NULL)-->NULL
+
+Processing - Afm Syedan...
+Target Index: 6
+(dummyfirst dummylast , Rashad)-->(Rashad Bernard , Seratul)-->(Seratul Diaz , Thomas)-->(Thomas Diaz , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine , Afm)-->(Afm Syedan NULL)-->NULL
+***Performing hashDelete on Afm Syedan
+Afm Syedan has been DELETED on HashTable[6]: (dummyfirst dummylast , Rashad)-->(Rashad Bernard , Seratul)-->(Seratul Diaz , Thomas)-->(Thomas Diaz , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine NULL)-->NULL
+
+Processing ? Megan Shrestha...
+Target Index: 14
+(dummyfirst dummylast , Jasmin)-->(Jasmin Atwal NULL)-->NULL
+***Performing hashRetrieval on Megan Shrestha
+No, the record Megan Shrestha is NOT in the database!
+
+Processing ? Afm Syedan...
+Target Index: 6
+(dummyfirst dummylast , Rashad)-->(Rashad Bernard , Seratul)-->(Seratul Diaz , Thomas)-->(Thomas Diaz , Tasif)-->(Tasif Jang , Gursharn)-->(Gursharn Pho , Pravesh)-->(Pravesh Ramnarine NULL)-->NULL
+***Performing hashRetrieval on Afm Syedan
+No, the record Afm Syedan is NOT in the database!
+
+Processing + Preety Nazamy...
+Target Index: 0
+(dummyfirst dummylast , Matin)-->(Matin Kwon , Franklin)-->(Franklin Meneses , Carlos)-->(Carlos Ochilov NULL)-->NULL
+***Performing hashInsert on Preety Nazamy
+Preety Nazamy has been INSERTED on HashTable[0]: (dummyfirst dummylast , Matin)-->(Matin Kwon , Franklin)-->(Franklin Meneses , Preety)-->(Preety Nazamy , Carlos)-->(Carlos Ochilov NULL)-->NULL
+
+Processing + Luis Subick...
+Target Index: 23
+(dummyfirst dummylast , Ryan)-->(Ryan Kousountidis NULL)-->NULL
+***Performing hashInsert on Luis Subick
+Luis Subick has been INSERTED on HashTable[23]: (dummyfirst dummylast , Ryan)-->(Ryan Kousountidis , Luis)-->(Luis Subick NULL)-->NULL
+
+Processing + Ryan Nicolas...
+Target Index: 1
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Ryan Nicolas
+Ryan Nicolas has been INSERTED on HashTable[1]: (dummyfirst dummylast , Ryan)-->(Ryan Nicolas NULL)-->NULL
+
+Processing - Bijaya Sajjad...
+Target Index: 13
+(dummyfirst dummylast , Dhawa)-->(Dhawa Farooq , Upesh)-->(Upesh Guira , Bijaya)-->(Bijaya Sajjad NULL)-->NULL
+***Performing hashDelete on Bijaya Sajjad
+Bijaya Sajjad has been DELETED on HashTable[13]: (dummyfirst dummylast , Dhawa)-->(Dhawa Farooq , Upesh)-->(Upesh Guira NULL)-->NULL
+
+Processing + Hajab Prykiel...
+Target Index: 34
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Hajab Prykiel
+Hajab Prykiel has been INSERTED on HashTable[34]: (dummyfirst dummylast , Hajab)-->(Hajab Prykiel NULL)-->NULL
+
+Processing + Mohab Rasulov...
+Target Index: 25
+(dummyfirst dummylast NULL)-->NULL
+***Performing hashInsert on Mohab Rasulov
+Mohab Rasulov has been INSERTED on HashTable[25]: (dummyfirst dummylast , Mohab)-->(Mohab Rasulov NULL)-->NULL
+
+Processing + Wengang Rodriguez...
+Target Index: 38
+(dummyfirst dummylast , John)-->(John Cohen , Tenzin)-->(Tenzin Rodriguez , Michael)-->(Michael Zheng NULL)-->NULL
+***Performing hashInsert on Wengang Rodriguez
+Wengang Rodriguez has been INSERTED on HashTable[38]: (dummyfirst dummylast , John)-->(John Cohen , Tenzin)-->(Tenzin Rodriguez , Wengang)-->(Wengang Rodriguez , Michael)-->(Michael Zheng NULL)-->NULL
+
+Processing - Luis Subick...
+Target Index: 23
+(dummyfirst dummylast , Ryan)-->(Ryan Kousountidis , Luis)-->(Luis Subick NULL)-->NULL
+***Performing hashDelete on Luis Subick
+Luis Subick has been DELETED on HashTable[23]: (dummyfirst dummylast , Ryan)-->(Ryan Kousountidis NULL)-->NULL
+
+Processing ? Bijaya Sajjad...
+Target Index: 13
+(dummyfirst dummylast , Dhawa)-->(Dhawa Farooq , Upesh)-->(Upesh Guira NULL)-->NULL
+***Performing hashRetrieval on Bijaya Sajjad
+No, the record Bijaya Sajjad is NOT in the database!
+
